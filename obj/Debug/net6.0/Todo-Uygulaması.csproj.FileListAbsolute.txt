@@ -1,0 +1,15 @@
+C:\Users\gamer\Desktop\Todo-Uygulaması\bin\Debug\net6.0\Todo-Uygulaması.exe
+C:\Users\gamer\Desktop\Todo-Uygulaması\bin\Debug\net6.0\Todo-Uygulaması.deps.json
+C:\Users\gamer\Desktop\Todo-Uygulaması\bin\Debug\net6.0\Todo-Uygulaması.runtimeconfig.json
+C:\Users\gamer\Desktop\Todo-Uygulaması\bin\Debug\net6.0\Todo-Uygulaması.dll
+C:\Users\gamer\Desktop\Todo-Uygulaması\bin\Debug\net6.0\Todo-Uygulaması.pdb
+C:\Users\gamer\Desktop\Todo-Uygulaması\obj\Debug\net6.0\Todo-Uygulaması.csproj.AssemblyReference.cache
+C:\Users\gamer\Desktop\Todo-Uygulaması\obj\Debug\net6.0\Todo-Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\Desktop\Todo-Uygulaması\obj\Debug\net6.0\Todo-Uygulaması.AssemblyInfoInputs.cache
+C:\Users\gamer\Desktop\Todo-Uygulaması\obj\Debug\net6.0\Todo-Uygulaması.AssemblyInfo.cs
+C:\Users\gamer\Desktop\Todo-Uygulaması\obj\Debug\net6.0\Todo-Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\gamer\Desktop\Todo-Uygulaması\obj\Debug\net6.0\Todo-Uygulaması.dll
+C:\Users\gamer\Desktop\Todo-Uygulaması\obj\Debug\net6.0\refint\Todo-Uygulaması.dll
+C:\Users\gamer\Desktop\Todo-Uygulaması\obj\Debug\net6.0\Todo-Uygulaması.pdb
+C:\Users\gamer\Desktop\Todo-Uygulaması\obj\Debug\net6.0\Todo-Uygulaması.genruntimeconfig.cache
+C:\Users\gamer\Desktop\Todo-Uygulaması\obj\Debug\net6.0\ref\Todo-Uygulaması.dll
